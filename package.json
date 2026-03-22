@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.32.1",
   "dependencies": {
     "amqplib": "^0.10.9",
+    "ioredis": "^5.10.1",
     "pg": "^8.20.0"
   }
 }
